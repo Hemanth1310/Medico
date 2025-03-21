@@ -3,6 +3,9 @@
 ## 📌 Overview
 The **Doctor-Patient Management System** is a web-based application built with **React** and **Tailwind CSS** that facilitates efficient scheduling, record-keeping, and communication between doctors and patients. The system helps manage appointments, patient records, and prescriptions seamlessly.
 
+## Link to Access
+https://medico-6h8r.onrender.com/
+
 ## 🚀 Features
 ### 🔹 For Doctors:
 - Dashboard with upcoming appointments
